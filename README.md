@@ -9,7 +9,7 @@
 -   Enter a URL to generate a QR Code and download the image.
 
 
-## Use
+## In Use
 
 -   Vanilla JS
 -   Tailwind CSS
